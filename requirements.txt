@@ -1,0 +1,6 @@
+chess
+requests
+pandas
+scikit-learn
+lichess
+pickle5
