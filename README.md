@@ -1,0 +1,1 @@
+*The goal of this project is to create a chess bot that imitates my online chess gameplay*
